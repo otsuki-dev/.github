@@ -1,5 +1,5 @@
-## Hey, welcome to Spiral SBM! 👋
-![spiral-tumb](https://github.com/user-attachments/assets/003b179d-33d1-404f-a136-1f53a516f0ef)
+## Hey, welcome to Otsuki! 👋
+![otsuki-tumb](https://github.com/user-attachments/assets/003b179d-33d1-404f-a136-1f53a516f0ef)
 
 <!--
 
@@ -12,17 +12,17 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 🎉 Presentation for Spiral SBM 🎉
+# 🎉 Presentation for Otsuki.dev 🎉
 
 ## 📣 Introduction
-- Spiral SBM is...
+- Otsuki is...
 
-## 🏢 About Spiral SBM
-- Spiral SBM is a company based in Brazil² 🇧🇷.
-- They have a presence on GitHub, where they maintain several repositories² 🖥️.
-- Their projects range from websites to applications, showcasing their versatility and skillset² 🌐📱.
+## 🏢 About Us
+- We are a tiny company based in Brazil and Japan 🇧🇷🇯🇵.
+- We have a presence on GitHub, where we create some applications to small businesses use 🖥️.
+- Our projects range from websites to applications, showcasing their versatility and skillset 🌐📱.
 
-## 🌐 Website Creation and Design
+## 🌐 Website Creation and our Design
 - Discuss the importance of website design and its impact on user experience 🖥️.
 - Highlight the best practices for exceptional web design 🎨.
     - Simplicity: Avoid unnecessary design elements 🧹.
@@ -43,4 +43,4 @@
 ## 🎯 Conclusion
 - We have the most cheap services!
 - Summarize the main points of the presentation 📝.
-- Express your interest in collaborating with Spiral SBM and how you can add value to our projects 🤝.
+- Express your interest in collaborating with Otsuki and how you can add value to our projects 🤝.
